@@ -5,7 +5,7 @@
 
 /** button himself **/
 .btn {
-  font: 100%/1.1 "Raleway", sans-serif;
+  font: 100%/1.1 "Roboto", sans-serif;
   background-color: rgba(0,0,0,0.3);
   border: 2.2px solid #ecf0f1;
   color: #ffffff;
